@@ -1,0 +1,187 @@
+body{
+    background-color: black;
+}
+
+
+.navbar{
+    background-color: #FFFF00;
+}
+
+.bussinessContent{
+    background-image: url('images/business.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    opacity: 1;
+
+    padding-top: 4rem;
+ /*Section-1  */
+}
+
+.dot{
+    background: #FFFF00;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+.bigHeadings{
+    font-family: sans-serif;
+    font-weight: 700;
+}  
+
+.cardsRow col{
+    width: 20%;
+}
+
+.cardsRow .col .card{
+    background-color: #FFFF00;
+    border-radius: 0;
+    height: 220px;
+    width: 190px;
+}
+
+
+.Section1End{
+    background-color: #FFFF00;
+    padding: 80px;
+    margin-bottom: 7rem;
+}
+
+
+/* Section 2 */
+
+.consultants{
+    background-color: black;
+}
+
+.socialIcons{
+    color: #FFFF00;
+}
+
+.consultantImage{
+    max-height: 100%;
+    max-width: 90%;
+}
+
+.consultantHeading{
+    font-size: xx-large;
+    margin-bottom: 2rem;
+}
+
+.labelYellow{
+    background-color: #FFFF00;
+    height: 30px;
+    width: 60%;
+    margin-top: 10rem;
+}
+
+/* Section-3 */
+
+.workingPeople{
+    min-height: 200px;
+    max-width: 100%;
+}
+
+.work{
+    background-color: #FFFF00;
+}
+
+/* Section-4 */
+.clients{
+    background-image: url('images/clients.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 3rem;
+}
+
+.clientNames{
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    
+}
+
+/* section-5 */
+.company{
+    background-color: #FFFF00;
+}
+
+
+
+.milestone{
+    background-image: url('images/clients.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+}
+
+.facility p i{
+    color: #FFFF00;
+}
+
+/* Section-6 */
+
+.growth{
+    background-image: url('images/growthImage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 4rem;
+}
+
+.growthHeading{
+    font-size: 4rem;
+}
+
+.growthDataRow{
+    padding-bottom: 7rem;
+}
+
+.dataCol{
+    color: #FFFF00;
+}
+
+/* Section-7 */
+.contactBar{
+    background-color: #FFFF00;
+    margin: 4rem;
+}
+
+/* Section-8 */
+
+.clientsExperience{
+    background-color:#454545;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.clientImage{
+    height: 80px;
+    width: 80px;
+}
+
+.clientCard{
+    background-color: #FFFF00;
+}
+
+/* Section-9  */
+.contact{
+    background-image: url('images/business.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5rem;
+}
+
+.submitButton{
+    background-color: #FFFF00;
+}
+
+.addressDetails{
+    margin-top: 5rem;
+}
+.addressDetails div i{
+    color:#FFFF00;
+}
+
+.ending{
+    background-color: #454545;
+}
